@@ -1,0 +1,24 @@
+{
+  "name": "vite-vue-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@formily/core": "^2.3.7",
+    "@formily/reactive": "^2.3.7",
+    "@formily/reactive-vue": "^2.3.7",
+    "@formily/vue": "^2.3.7",
+    "ant-design-vue": "^4.2.6",
+    "pinia": "^3.0.3",
+    "vue": "^3.5.19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.3"
+  }
+}
