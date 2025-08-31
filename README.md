@@ -1,5 +1,5 @@
-# Vue 3 + Vite
+# formily-vue-bind-pinia
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+link: https://github.com/alibaba/formily/discussions/2653#discussioncomment-14269173
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+code: https://github.com/eric-gitta-moore/formily-vue-bind-pinia/blob/365da8a05faa573cf1ed4ed5767874e12ae483f8/src/components/HelloWorld.vue#L46
